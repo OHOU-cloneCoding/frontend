@@ -27,6 +27,29 @@
 
 ---
 
+
+### 🔧 사용 기술 (FE)
+
+---
+
+- View : **`React`, `React-Router-Dom`, `axios` , `Styled-components`, `react-icons`**
+- State Management : **`Redux`, `react-query`, `Redux-toolkit`**
+- Build Tool : **`Create React App`**
+- Other Tools : **`yarn`, `Github`, `notion`**
+
+---
+
+### 🔧 사용 기술 (BE)
+
+---
+
+- **`SpringBoot`, `SpringData JPA`, `JDBC`, `Spring Security`, `JWT`, `Querydsl`, `Jsoup`**
+- CICD : **`GithubActions`, `S3`, `Route 53`, `CodeDeploy`, `EC2`, `RDS`**
+- Other Tools : **`Git`, `Github`, `notion`**
+
+---
+
+
 ### 🧑‍💻 FE 트러블 슈팅
 
 > 김나영
@@ -136,24 +159,3 @@ JWT Access Token을 사용하는데 보안적인 측면에서 문제가 있음.
 - 고객센터 데이터 크롤링
 - EC2 swap memory 설정
 - 소셜 로그인 기능
-
-### 🔧 사용 기술 (FE)
-
----
-
-- View : **`React`, `React-Router-Dom`, `axios` , `Styled-components`, `react-icons`**
-- State Management : **`Redux`, `react-query`, `Redux-toolkit`**
-- Build Tool : **`Create React App`**
-- Other Tools : **`yarn`, `Github`, `notion`**
-
----
-
-### 🔧 사용 기술 (BE)
-
----
-
-- **`SpringBoot`, `SpringData JPA`, `JDBC`, `Spring Security`, `JWT`, `Querydsl`, `Jsoup`**
-- CICD : **`GithubActions`, `S3`, `Route 53`, `CodeDeploy`, `EC2`, `RDS`**
-- Other Tools : **`Git`, `Github`, `notion`**
-
----
